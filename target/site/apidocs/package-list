@@ -1,0 +1,9 @@
+org.vignesh.capp.command
+org.vignesh.capp.config
+org.vignesh.capp.controller
+org.vignesh.capp.dao
+org.vignesh.capp.domain
+org.vignesh.capp.exception
+org.vignesh.capp.rm
+org.vignesh.capp.service
+org.vignesh.capp.util
